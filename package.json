@@ -51,7 +51,8 @@
     "nyc": "11.7.1",
     "stringstream": "1.0.0",
     "lodash": "4.17.21",
-    "qs": "6.13.0"
+    "qs": "6.13.0",
+    "extend": "3.0.2"
   },
   "keywords": [
     "jsdoc",
